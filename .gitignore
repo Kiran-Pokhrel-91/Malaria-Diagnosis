@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+.env/
+
+# Sensitive config or secret files
+*.env
+config.yaml
+secrets.json
+credentials.json
+
+# Streamlit cache and log files
+.streamlit/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Model files (usually large & sensitive)
+*.h5
+*.ckpt
+checkpoint
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore local IDE/editor configs (optional, add yours if needed)
+.vscode/
+.idea/
