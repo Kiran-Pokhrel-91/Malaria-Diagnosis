@@ -1,6 +1,6 @@
 # 🦠 Malaria Diagnosis with Deep Learning
 
-> 📌 **[👉 Open in Google Colab](https://colab.research.google.com/drive/1T-xJ10NuMmgszPsIKnzlehcTfD9r4anP?usp=sharing)**
+> 📌 **[👉 View ML code in Google Colab](https://colab.research.google.com/drive/1T-xJ10NuMmgszPsIKnzlehcTfD9r4anP?usp=sharing)**
 
 ---
 
