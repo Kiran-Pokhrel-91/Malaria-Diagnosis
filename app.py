@@ -19,8 +19,6 @@ TARGET_SIZE = (W, H)
 st.set_page_config(page_title="Malaria Cell Diagnosis", layout="centered")
 st.title("🩸 Malaria Cell Image Diagnosis")
 
-st.caption(f"Model expects **{H}×{W}×{C}** images (in RGB).")
-
 uploaded_file = st.file_uploader(
     "Upload a single cell image (JPG / PNG)", type=("jpg", "jpeg", "png")
 )
